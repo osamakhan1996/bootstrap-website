@@ -1,0 +1,22 @@
+/* font-family: 'Ubuntu', sans-serif; */
+.back-image{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 60vh;
+    border-radius: 0px;
+    
+}
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+
+}
+
+.navbar #mymenu .navbar-custom .nav-item a{
+    color: white;
+}
+.navbar #mymenu .navbar-custom .nav-item a:hover{
+    color: rgb(195, 188, 188);
+}
